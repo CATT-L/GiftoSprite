@@ -1,5 +1,10 @@
 # GiftoSprite
-把动图转换成unity3d所需要的精灵格式
+把动图转换成unity3d所需要的精灵格式  
+  
+
+像这样的精灵格式
+![Gif图片](sprite.gif)  
+
 <br>
 研究unity3d的时候并没有找到一个方便的转换工具，如果在photoshop里面一个个拼起来的话效率太低了。  
 <br>
